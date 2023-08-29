@@ -35,13 +35,6 @@ Once the embedded calculator is set up and running, users can utilize the keypad
 4. The calculator will handle edge cases, such as division by zero and subtracting from larger numbers, and provide appropriate error messages or results.
 5. Users can continue entering new expressions or clear the calculator to start a fresh calculation.
 
-## Contributing
-
-Contributions to the embedded calculator project are welcome. You can contribute by suggesting improvements, reporting bugs, or adding new features. Please open an issue or submit a pull request on the project repository to contribute.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
